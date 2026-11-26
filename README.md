@@ -4,11 +4,9 @@ I’m a high school senior. My projects range from robot diagnostics and iPhone 
 
 <samp><a href="https://yajatparmar.com">website</a> · <a href="https://www.linkedin.com/in/yajatparmar/">linkedin</a></samp>
 
-## Projects
+## Selected Projects
 
-> **[FRC AI Copilot](https://github.com/yajatp/frc-ai-copilot-public)**  
-> A toolkit for the minutes between robotics matches. It shows where voltage dropped or a control loop ran late, and lets teams check autonomous changes in simulation.  
-> [Try the sample logs](https://github.com/yajatp/frc-ai-copilot-public#try-it)
+**[FRC AI Copilot](https://github.com/yajatp/frc-ai-copilot-public)** · A toolkit for diagnosing power and timing issues from robot logs and testing autonomous changes in simulation. [Try the sample logs](https://github.com/yajatp/frc-ai-copilot-public#try-it)
 
 **[LumaPath](https://github.com/yajatp/lumapath)** · An iPhone accessibility prototype that identifies nearby objects and tells you when it can’t estimate their distance.
 
@@ -20,4 +18,4 @@ I’m a high school senior. My projects range from robot diagnostics and iPhone 
 
 **University of North Texas** · I built Python checks that catch mismatches between figures and their source data and co-authored two IEEE WF-PST papers on safety in AI-assisted radiotherapy.
 
-**WaveLynk** · We studied when moving users and aging channel estimates should trigger a change in beamforming strategy. [IEEE ATNT paper and notebooks](https://github.com/yajatp/wavelynk) · [Browser simulations](https://wavelynk.us/)
+**WaveLynk** · We studied when a wireless system should switch beamforming strategies as people move and its estimate of the signal goes stale. [IEEE ATNT paper and notebooks](https://github.com/yajatp/wavelynk) · [Browser simulations](https://wavelynk.us/)
